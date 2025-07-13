@@ -1,5 +1,6 @@
 # Java_Programming
 A collection of Java programs, examples, and mini-projects showcasing core concepts, algorithms, and practical applications of Java programming. Ideal for beginners and intermediate developers looking to strengthen their Java skills.
+<<<<<<< HEAD
 
 
 # Java Programming Repository
@@ -16,3 +17,5 @@ This repository contains a curated set of Java programs and projects designed to
 
 ## 📁 Folder Structure
 
+=======
+>>>>>>> cf9b58bc51cbf599f8ef43c269efad1445c302db
