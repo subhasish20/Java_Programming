@@ -239,7 +239,6 @@ If you find this repository useful, please consider giving it a ⭐ on GitHub. I
 ## 📬 Contact
 
 - GitHub: [subhasish20](https://github.com/subhasish20)
-- LinkedIn: `<YOUR_LINKEDIN_PROFILE>`
 - Email: [subhasishjena8280@gmail.com](mailto:subhasishjena8280@gmail.com)
 
 ---
