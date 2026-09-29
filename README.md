@@ -8,7 +8,7 @@
 
 A beginner-friendly Java learning repository for practicing Java fundamentals, Object-Oriented Programming, coding exercises, and mini projects.
 
----
+--- 
 
 ## 📖 About the Repository
 
